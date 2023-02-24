@@ -10,6 +10,5 @@ public class CylinderTester {
         System.out.println("Height:" + cylinder.getHeight());
         System.out.println("Area:" + cylinder.getArea());
         System.out.println("Volume:" + cylinder.getVolume());
-        System.out.println("test for git");
     }
 }
